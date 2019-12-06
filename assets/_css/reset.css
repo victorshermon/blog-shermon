@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  margin:0px; padding:0px;
+}
+
+ul
+{
+  list-style:none; padding:0px; margin:0px;
+}
+
+a
+{
+  text-decoration:none;
+}

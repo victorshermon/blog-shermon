@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.app__footer
+{
+  grid-area:footer; background-color:tomato;
+}
